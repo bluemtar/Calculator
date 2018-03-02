@@ -16,6 +16,10 @@ namespace Calculator
         {
             return x + y; 
         }
+        public static int blabla(int x, int y)
+        {
+            return x - y;
+        }
 
 
     }
