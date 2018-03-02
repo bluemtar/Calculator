@@ -16,7 +16,8 @@ namespace Calculator
         {
             return x + y; 
         }
-        public static int blabla(int x, int y)
+        // this is a minus method
+        public static int minus(int x, int y)
         {
             return x - y;
         }
